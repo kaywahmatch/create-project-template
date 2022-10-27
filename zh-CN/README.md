@@ -8,4 +8,4 @@
 
 ## Currently：
 * vue + ts + pinia + router + tailwind
-* vue + js + tailwind
+* vite + js + tailwind
